@@ -1,0 +1,1 @@
+/bin/c++  -g   CMakeFiles/LBM.dir/main.cpp.o  -o LBM 
